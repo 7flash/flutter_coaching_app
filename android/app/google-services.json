@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244656521809",
+    "firebase_url": "https://coaching-e785d.firebaseio.com",
+    "project_id": "coaching-e785d",
+    "storage_bucket": "coaching-e785d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244656521809:android:069845282861772c772e70",
+        "android_client_info": {
+          "package_name": "com.example.coaching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244656521809-o6rt924s091aths55tusmk6kppobn5kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCNTFG_O88Xgan5CMxY4QnD-XDzMn_jhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244656521809-o6rt924s091aths55tusmk6kppobn5kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
